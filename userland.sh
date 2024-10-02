@@ -40,3 +40,10 @@ then
 clear
 sleep 1
 figlet -f shadow "VOID LINUX" | lolcat
+pkg install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXAL>
+fi
+if [ "$menu" -eq 3 ]
+then
+clear
+sleep 1
+figlet -f shadow "UBUNTU-OS"
