@@ -1,11 +1,12 @@
 clear
 sleep 1
+cowsay -f eyes "HEAR THE MANKIND POWER IS NOT TO BE ABUSED." | lolcat
+echo
 figlet -f shadow "SKYHIMA" | lolcat
-echo "HEAR THE MANKIND POWER IS NOT TO BE ABUSED." | lolcat
 echo
 echo "Skyhima Is Online" | lolcat
 echo
-echo "Menu" | lolcat
+echo "Menu 👇" | lolcat
 echo
 echo
 echo "1.Debian-OS             2.Void-Linux" | lolcat
